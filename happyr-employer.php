@@ -2,7 +2,7 @@
 /*
 Plugin Name: Happyr employer
 Plugin URI: 
-Description: Show jobs for a Happyr epmployer
+Description: Show jobs for a Happyr employer
 Author: Tobias Nyholm
 Version: 1.0
 Author URI: https://happyr.com
