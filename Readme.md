@@ -3,6 +3,8 @@
 This is a small wordpress plugin for Happyr employers. See https://happyr.com/integration/doc 
 for more information and integration documentation. 
 
+Download here: [Wordpress plugin](https://github.com/Happyr/wordpress-happyr-employer/releases/download/1.0.0/happyr-employer.zip)
+
 ## Shortcodes
 
 ### Show jobs
